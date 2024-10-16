@@ -20,13 +20,13 @@ OpenCV, NumPy, Pillow, tqdm, scikit-image and tensorboardX.
 <details>
 <summary><b>SntheticBurst training dataset</b></summary>
 
-Download the Zurich RAW to RGB canon set from [here](https://data.vision.ee.ethz.ch/bhatg/zurich-raw-to-rgb.zip) and unpack the zip file.
+Download the Zurich RAW to RGB canon set from [here](https://drive.google.com/file/d/12L0LYhG78zQBLkIDyFNE5J6fIH02NUgz/view) and unpack the zip file.
 </details>
 
 <details>
 <summary><b>SyntheticBurst testing dataset</b></summary>
 
-Downloaded the dataset [here](https://data.vision.ee.ethz.ch/bhatg/SyntheticBurstVal.zip) and unpack the zip file. 
+Downloaded the dataset [here](https://drive.google.com/file/d/1DHu3-_tGSc_8Wwwu6sHFaPtmd9ymd0rZ/view) and unpack the zip file. 
 </details>
 
 <details>
